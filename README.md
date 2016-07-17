@@ -1,2 +1,3 @@
-. env.sh
-make
+
+    source env.sh
+    make
