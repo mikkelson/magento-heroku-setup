@@ -1,0 +1,8 @@
+{
+   "http-basic": {
+      "repo.magento.com": {
+         "username": "replace-username",
+         "password": "replace-password"
+      }
+   }
+}
